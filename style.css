@@ -1,0 +1,130 @@
+body {
+	text-align: center;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,38,1) 50%, rgba(131,124,125,1) 100%);
+color: gainsboro;
+}
+
+ 
+	
+nav{
+    font-weight: bold;
+    color: indigo;
+    
+}
+
+h2{
+    color: lightskyblue;
+    text-shadow: 1px 1px silver;
+}
+
+h1,h3 {
+	text-shadow: 1px 1px darkslateblue;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-weight: 300;
+}
+
+.line {
+	height: 6px;
+	background-color: rgb(13, 27, 144);
+	width: 70px;
+	margin: 8px auto;
+}
+
+#contact iframe {
+	width: 100%;
+}
+
+.contact_1 h3 {
+	display: inline;
+}
+
+.contact_1 a {
+	text-shadow: none;
+}
+
+
+#videos iframe {
+	width: 80%;
+}
+
+
+input {
+	background: grey;
+}
+
+#contact iframe {
+	width: 100%;
+}
+
+.contact_1 h3 {
+	display: inline;
+}
+
+.contact_1 a {
+	text-shadow: none;
+}
+
+
+
+.movie_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+.movie_head i {
+	float: right;
+}
+
+.movie_text span {
+	color: #ff7700;
+}
+
+.environment_li {
+	margin-top: 13px;
+}
+
+.environment_li h4 {
+	border-bottom: 1px solid white;
+	padding: 8px;
+}
+
+.environment_li img {
+	border-radius: 25px;
+}
+
+.environment_li p {
+	margin-top: 10px;
+}
+
+.header_entrepreneur {
+	line-height: 2;
+}
+
+.books {
+	cursor: pointer;
+}
+
+.books hr {
+	margin-bottom: 10px;
+}
+
+.modal-content {
+	margin-top: 100px;
+}
+
+.img_modal {
+	display: inline-block;
+}
+
+.p_modal {
+	margin-top: 10px;
+}
+
+.modal-body {
+	text-align: center
+}
